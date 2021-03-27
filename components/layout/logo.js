@@ -17,7 +17,7 @@
 import classes from './logo.module.css';
 
 function Logo() {
-  return <div className={classes.logo}>Björn´s Web Blogg</div>;
+  return <div className={classes.logo}>Björn´s Blogg</div>;
 }
 
 export default Logo;
